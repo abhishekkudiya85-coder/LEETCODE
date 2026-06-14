@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool detectCapitalUse(string word) {
+
+        int capitalCount = 0;
+
+        for (char ch : word) {
+            if (isupper(ch))
+                capitalCount++;
+        }
+
+        return capitalCount == word.length() ||
+               capitalCount == 0 ||
+               (capitalCount == 1 && isupper(word[0]));
+    }
+};
