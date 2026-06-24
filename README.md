@@ -8,6 +8,7 @@ My LeetCode problem-solving journey with C++ solutions and explanations.
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,8 +33,10 @@ My LeetCode problem-solving journey with C++ solutions and explanations.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
