@@ -20,6 +20,7 @@ My LeetCode problem-solving journey with C++ solutions and explanations.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ My LeetCode problem-solving journey with C++ solutions and explanations.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
