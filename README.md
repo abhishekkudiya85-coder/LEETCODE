@@ -9,6 +9,7 @@ My LeetCode problem-solving journey with C++ solutions and explanations.
 | [0010-regular-expression-matching](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+| [0482-license-key-formatting](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [0831-masking-personal-information](https://github.com/abhishekkudiya85-coder/LEETCODE/tree/main/0831-masking-personal-information/) | Medium |
 ## Dynamic Programming
